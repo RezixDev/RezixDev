@@ -19,5 +19,8 @@ I'm **Rezix**, a Software Developer originally from 🇵🇱 and currently based
 * 🌍 Translating programming documentation to make valuable resources more accessible
 * 💻 Working full-time as a Web Developer using **React**, **Astro**, **Tailwind**, **Storybook**, and **Next.js**
 
+### 📬 Contact
+
+- 💬 Discord: `re7ix`
 
 
