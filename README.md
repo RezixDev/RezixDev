@@ -11,7 +11,7 @@ I'm **Rezix**, a Software Developer from 🇵🇱
 * 🧠 I've been working with **AI-related technologies** since 2017 — from Machine Learning and Reinforcement Learning to modern LLMs.
 * 🏆 My proudest moment? Achieving **5th place** in the [OpenAI Retro Contest (2018)](https://openai.com/index/retro-contest-results/) as a solo developer under the team name **"Students of Plato"**.
 
-> *“Students of Plato” – #5 out of 229 teams. *
+> “Students of Plato” – #5 out of 229 teams. 
 
 ### 💼 What I'm Doing Now
 
