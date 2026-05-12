@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Rezix**, a Software Developer originally from 🇵🇱 and currently based in 🇩🇪.
+I'm **Rezix**, a Software Developer from 🇵🇱
 
 ### 🚀 About Me
 
