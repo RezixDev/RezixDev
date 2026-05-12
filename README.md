@@ -17,7 +17,7 @@ I'm **Rezix**, a Software Developer from 🇵🇱
 
 * 🔍 Exploring the **possibilities of AI** and its real-world applications
 * 🌍 Translating programming documentation to make valuable resources more accessible
-* 💻 Working full-time as a Web Developer using **React**, **Astro**, **Tailwind**, **Storybook** **
+* 💻 Working full-time as a Web Developer using **React**, **Astro**, **Tailwind**, **Storybook** 
 
 ### 📬 Contact
 
